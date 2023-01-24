@@ -1,1 +1,5 @@
-sentence = "Hello, World!"
+"Hi,\
+my name is\
+John Doe"
+
+"python"
